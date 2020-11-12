@@ -1,2 +1,2 @@
 # clone-instagram
- Cópia da página inicial do Instagram feito para o bootcamp HTML Developer
+ Cópia da página inicial do Instagram feito para o bootcamp HTML Developer.
